@@ -10,6 +10,8 @@ License
 click on the RejexTotorial.md file 
 
 ## Usage
+Once on the page, click on the table of content items to be traken to their corresponding sections.
+
 The page can be found by in the following link:
 https://github.com/Gladi023/RejexTutorial
 
